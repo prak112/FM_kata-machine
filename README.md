@@ -36,4 +36,12 @@ npm test
 - [Linear Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/LinearSearchList.ts)
 - [Binary Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/BinarySearchList.ts)
 - [Jump Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/TwoCrystalBalls.ts)
-- 
+-
+
+## NOTES
+Detailed notes about the Pseudo code and the learnings can be found [on Google Docs](https://docs.google.com/document/d/1bJQDQl6x4JmfC0UVkMfODrOVv3UGy3v-GiJWJI8nc1Y/edit?usp=sharing).
+
+
+<hr>
+<br>
+
