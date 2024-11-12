@@ -1,9 +1,13 @@
 ## SOURCE : [ThePrimeagen Kata Machine](https://github.com/ThePrimeagen/kata-machine)
 
 ## Installation and Usage
-Make sure you have [Node.js](https://nodejs.org/en/) and yarn installed: `npm install --global yarn`
+- Make sure you have [Node.js](https://nodejs.org/en/) 
 
-clone the repo and install the dependencies
+- Clone the repo and install the dependencies
+
+```bash
+git clone https://github.com/prak112/FM_kata-machine
+```
 
 ```bash
 npm install
@@ -38,8 +42,8 @@ npm test
 - [Jump Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/TwoCrystalBalls.ts)
 -
 
-## NOTES
-Detailed notes about the Pseudo code and the learnings can be found [on Google Docs](https://docs.google.com/document/d/1bJQDQl6x4JmfC0UVkMfODrOVv3UGy3v-GiJWJI8nc1Y/edit?usp=sharing).
+## Notes
+Detailed notes about algorithms pseudo code and learnings can be found [on Google Docs](https://docs.google.com/document/d/1bJQDQl6x4JmfC0UVkMfODrOVv3UGy3v-GiJWJI8nc1Y/edit?usp=sharing).
 
 
 <hr>
