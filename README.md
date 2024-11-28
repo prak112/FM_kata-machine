@@ -31,16 +31,22 @@ the latest `day` folder via tspaths.  This allows us to avoid updating anything
 for testing each day.
 
 #### Testing
-```
-npm test
+```bash
+  npm test src/__tests__/{filename}.ts
 ```
 
 
-## Algorithms Solved so far
-- [Linear Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/LinearSearchList.ts)
-- [Binary Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/BinarySearchList.ts)
-- [Jump Search](https://github.com/prak112/FM_kata-machine/blob/master/src/day1/TwoCrystalBalls.ts)
--
+## Algorithms solved so far
+- [Linear Search](/src/day1/LinearSearchList.ts)
+- [Binary Search](/src/day1/BinarySearchList.ts)
+- [Jump Search](/src/day1/TwoCrystalBalls.ts)
+- [Bubble Sort](/src/day1/BubbleSort.ts)
+- 
+
+## Data Structures studied so far 
+- [Queues](/src/day1/Queue.ts)
+-  
+
 
 ## Notes
 Detailed notes about algorithms pseudo code and learnings can be found [on Google Docs](https://docs.google.com/document/d/1bJQDQl6x4JmfC0UVkMfODrOVv3UGy3v-GiJWJI8nc1Y/edit?usp=sharing).
